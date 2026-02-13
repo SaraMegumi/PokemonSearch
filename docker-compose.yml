@@ -1,0 +1,10 @@
+services:
+  bot:
+    build: .
+    container_name: discord-bot
+    volumes:
+      - .:/app
+      - /app/node_modules
+    env_file:
+      - .env
+    restart: unless-stopped
