@@ -7,7 +7,7 @@ Bot para Discord que consulta informações e preços de cartas de Pokémon TCG 
 Este bot utiliza a API do PokéWallet para buscar informações detalhadas sobre cartas de Pokémon, incluindo:
 - 💰 Preços atualizados (USD)
 - 📊 Raridade
-- 
+ 
 ## ✨ Funcionalidades
 
 ### Comando `/consultar`
