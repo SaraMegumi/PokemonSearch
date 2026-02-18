@@ -1,14 +1,14 @@
-# 🎴 Pokémon TCG Bot
+#  Pokémon TCG Bot
 
 Bot para Discord que consulta informações e preços de cartas de Pokémon TCG em tempo real.
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 Este bot utiliza a API do PokéWallet para buscar informações detalhadas sobre cartas de Pokémon, incluindo:
-- 💰 Preços atualizados (USD)
-- 📊 Raridade
+- Preços atualizados (USD)
+- Raridade
  
-## ✨ Funcionalidades
+## Funcionalidades
 
 ### Comando `/consultar`
 Busca uma carta pelo seu ID ou Nome e retorna:
@@ -21,20 +21,20 @@ Busca uma carta pelo seu ID ou Nome e retorna:
 /consultar parametro: 075/131
 ```
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - [Node.js](https://nodejs.org/) - Ambiente de execução JavaScript
 - [Discord.js](https://discord.js.org/) - Biblioteca para interação com a API do Discord
 - [Pokémon Pokewallet API]([(https://www.pokewallet.io/api-docs#endpoint-cards-id)]) - API de dados de cartas Pokémon
 
-## 📦 Pré-requisitos
+##  Pré-requisitos
 
 - Node.js 18.x ou superior
 - NPM ou Yarn
 - Conta no Discord Developer Portal
 - API Key do Pokewallet (gratuita)
 
-## 🔧 Instalação
+##  Instalação
 
 ### 1. Clone o repositório
 ```bash
